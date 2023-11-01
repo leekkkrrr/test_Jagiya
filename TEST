@@ -1,0 +1,10 @@
+#include iostream;
+#include math;
+
+int main(){
+
+int JAGIYA = 100;
+cout<<"JAGI<<JAGIYA<<"Jum E-Eh-yo."<<endl;
+
+return 0;
+}
