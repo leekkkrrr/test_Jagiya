@@ -1,4 +1,4 @@
 # test_Jagiya
 Im test eh-yo.
 i am test too.
-이게 뭐지 
+이건 메인에만 들어갈거야
